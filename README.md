@@ -1096,8 +1096,7 @@ ul
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body lang=EN-US link="#0563C1" vlink="#954F72" style='tab-interval:.5in;
-word-wrap:break-word'>
+<body lang=EN-US>
 
 <div class=WordSection1>
 
