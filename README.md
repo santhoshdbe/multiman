@@ -7,9 +7,9 @@ Welcome to Multiman! Multiman is a mobile application designed for practicing ba
 ## 2. Information We Collect
 ### 2.1. Information Provided by Users
 We may collect the following information that you provide directly when using our app:  
-•	Usernames or nicknames
-•	Profile pictures or avatars (if you choose to upload one)
-•	Communication and feedback (e.g., messages, emails)
+* Usernames or nicknames
+* Profile pictures or avatars (if you choose to upload one)
+* Communication and feedback (e.g., messages, emails)
 ### 2.2. Automatically Collected Information
 We may collect certain information automatically when you use Multiman:
 •	Device Information: such as device type, operating system version, and unique device identifiers.
