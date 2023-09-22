@@ -12,16 +12,16 @@ We may collect the following information that you provide directly when using ou
 * Communication and feedback (e.g., messages, emails)
 ### 2.2. Automatically Collected Information
 We may collect certain information automatically when you use Multiman:
-•	Device Information: such as device type, operating system version, and unique device identifiers.
-•	Usage Information: including app usage data, interactions with content, and technical information.
+* Device Information: such as device type, operating system version, and unique device identifiers.
+* Usage Information: including app usage data, interactions with content, and technical information.
 ### 2.3. Location Information
 Multiman does not collect precise location information from users.
 ## 3. How We Use the Information
 We use the information we collect for the following purposes:
-•	To provide and personalize the Multiman experience.
-•	To improve our app's functionality and user experience.
-•	To respond to user inquiries, feedback, and support requests.
-•	To ensure compliance with legal obligations.
+* To provide and personalize the Multiman experience.
+* To improve our app's functionality and user experience.
+* To respond to user inquiries, feedback, and support requests.
+* To ensure compliance with legal obligations.
 
 ## 4. Sharing of Information
 We do not sell or share personal information collected from users with third parties for commercial purposes.
